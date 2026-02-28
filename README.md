@@ -1,4 +1,4 @@
-# Expense Splitter App
+# Expense Splitter Application
 Tkinter + SQLite app with user auth, expense tracking, group splitting.
 
 ## Features
